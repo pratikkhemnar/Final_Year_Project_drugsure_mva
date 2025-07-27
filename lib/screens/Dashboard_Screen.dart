@@ -12,7 +12,7 @@ class DashboardScreen extends StatelessWidget {
         backgroundColor: Colors.teal,
         actions: [
           IconButton(
-            icon: const Icon(Icons.notifications),
+            icon: const Icon(Icons.add_alert),
             onPressed: () {},
           ),
         ],
